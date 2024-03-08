@@ -1,17 +1,23 @@
-### Hi there, I'm Harmain! An aspiring software engineer, studying Computer Science at Brooklyn College 👋
+## About Me
+
+Hey! My name is Harmain, (yes, it sounds like Hermione from Harry Potter)! Passionate about software development, coding, and all things computer science! I have been growing my skills in HTML, CSS, and Javascript, but plan to explore Artificial Intelligence and UI/UX design in the coming days.  
 
 
+### 🔭 Current Projects
 
-## 🔧Skills
-* Proficient in HTML, CSS, Javascript, Java
-* Graphic Design
-* UI/UX Design
+- Working on branding and building a professional website for a non-profit organization (WITUnite)!
+- Creating an internship search engine for my UI/UX design class!
 
-## 🌱 I’m currently learning ...
-* learning front-end technologies such as React &  back-end technologies (mySQL)
-* Data Structures & Algorithms in Java
-* Machine Learning
+### 🌱 Learning
 
-## 📫 How to reach me: 
-LinkedIn https://www.linkedin.com/in/harmain-munir-335511243/
-Email munirharmain@gmail.com
+- React, Ruby on Rails, mySQL, python
+- Exploring modern web development practices and design principles.
+
+### 👯 Collaboration
+
+- Open to collaborating and learnign more about different fields within the computer science world!
+
+### 📫 How to Reach Me
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/yourusername) or reach out via email at nafisa.anzum2003@gmail.com.
+

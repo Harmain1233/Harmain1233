@@ -1,6 +1,9 @@
+## Hey! My name is Harmain! 
+
+
 ## About Me
 
-Hey! My name is Harmain, (yes, it sounds like Hermione from Harry Potter)! Passionate about software development, coding, and all things computer science! I have been growing my skills in HTML, CSS, and Javascript, but plan to explore Artificial Intelligence and UI/UX design in the coming days.  
+I am an undergraduate Computer Science major, passionate about software development, coding, and all things computer science! I have been growing my skills in HTML, CSS, and Javascript, but plan to explore Artificial Intelligence and UI/UX design in the coming days.  
 
 
 ### 🔭 Current Projects

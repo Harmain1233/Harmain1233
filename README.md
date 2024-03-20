@@ -8,7 +8,7 @@ I am an undergraduate Computer Science major, passionate about software developm
 
 ### 🔭 Current Projects
 
-- Working on branding and building a professional website for a non-profit organization (WITUnite)!
+- Working on branding and building a professional website for my initiative (WITUnite)!
 - Creating an internship search engine for my UI/UX design class!
 
 ### 🌱 Learning

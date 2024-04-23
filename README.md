@@ -20,7 +20,4 @@ I am an undergraduate Computer Science major, passionate about software developm
 
 - Open to collaborating and learnign more about different fields within the computer science world!
 
-### 📫 How to Reach Me
-
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/yourusername) or reach out via email at nafisa.anzum2003@gmail.com.
 

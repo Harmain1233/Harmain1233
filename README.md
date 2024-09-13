@@ -1,4 +1,4 @@
-# 🏄‍♂️ Harmain Munir
+# ✨ Harmain Munir
 
 **`Software Developer (SWE fellow @CTP, HealthyCUNY) Developing Cool Websites One Repo at a Time`**
 

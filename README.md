@@ -1,4 +1,5 @@
-# ✨ Harmain Munir
+ ### ✨ Hi There, I'm Harmain  <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
+
 
 **`Software Developer (SWE fellow @CTP, HealthyCUNY) Developing Cool Websites One Repo at a Time`**
 

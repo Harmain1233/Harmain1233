@@ -1,7 +1,7 @@
  ### ✨ Hi There, I'm Harmain  <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
 
-**`Software Developer (SWE fellow @CTP, HealthyCUNY) Developing Cool Websites One Repo at a Time`**
+**`Software Developer (SWE fellow @CTP, GSWEP @Google) Developing Cool Websites One Repo at a Time`**
 
 I'm an aspiring full-stack developer, studying Computer Science at City University of New York, Brooklyn College. I aspire to be a developer who not only develops amazing software, but one who can drive for real good in the world - the tech industry is changing our lives every day, and I believe that by improving our technologies we're making a huge leap towards a better future.
 

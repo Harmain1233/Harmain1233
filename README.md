@@ -24,7 +24,8 @@ I'm an aspiring full-stack developer, studying Computer Science at City Universi
       <h3><a href="https://github.com/bhaw16/Hack-Brooklyn-Hackathon-Project" target="_blank">BookHaven (Bookstore Application)</a></h3>
       <p>Full Stack Bookstore application built using MongoDB Atlas, Tailwind CSS, React, and Render (Deployment).</p>
     <a href="https://github.com/Harmain1233/BookHaven" target="_blank">
-      <img src="https://private-user-images.githubusercontent.com/124540022/375063859-7e367dcc-7f96-4f44-a146-58bfa96cb4e7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjk5OTUzMTEsIm5iZiI6MTcyOTk5NTAxMSwicGF0aCI6Ii8xMjQ1NDAwMjIvMzc1MDYzODU5LTdlMzY3ZGNjLTdmOTYtNGY0NC1hMTQ2LTU4YmZhOTZjYjRlNy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMDI3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTAyN1QwMjEwMTFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mOTMzYTQ4MGY4MzA0NmEzNjkxN2Y2NzdiYmE1NWU1Yjk3ZTU3MDY5ODQwMzVlODdkMzZmYzUwNTI2OWQ0YTZkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9._8_3yQLOg0o09TyMUYb-bwPq0Id4JShMGTXd054uS34" alt="Hack Brooklyn" style="width: 50%; height: auto; border-radius: 8px;"/>
+     <img width="1424" alt="Screenshot 2024-10-09 at 1 08 03 PM" src="https://github.com/user-attachments/assets/7e367dcc-7f96-4f44-a146-58bfa96cb4e7"
+ alt="BookHaven" style="width: 50%; height: auto; border-radius: 8px;"/>
     </a>
   </div>
 

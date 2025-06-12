@@ -3,7 +3,11 @@
 
 **`Software Developer (SWE fellow @CTP, GSWEP @Google) Developing Cool Websites One Repo at a Time`**
 
-I'm an aspiring full-stack developer, studying Computer Science at City University of New York, Brooklyn College. I aspire to be a developer who not only develops amazing software, but one who can drive for real good in the world - the tech industry is changing our lives every day, and I believe that by improving our technologies we're making a huge leap towards a better future.
+Hi, I’m a recent Computer Science graduate from CUNY Brooklyn College (May 2025), passionate about where people, technology, and problem-solving meet.
+
+I’ve explored this through web development, data analysis, mentoring, and AI projects—building tools to support students, teaching coding to teens, and collaborating with peers on tech solutions.
+
+I’m drawn to human-centered tech roles where I can build, analyze, and simplify with purpose. I value collaboration, learning, and using tech to improve everyday experiences.
 
 ---
 # 💻 Tech Stack:
